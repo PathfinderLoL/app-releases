@@ -1,1 +1,1 @@
-# challenger-insights-releases
+# app-releases
